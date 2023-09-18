@@ -10,8 +10,6 @@ A Python application for processing Excel sheets uploaded to an S3 bucket and st
 - [Getting Started](#getting-started)
   - [Deployment](#deployment)
   - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [License](#license)
 
 ## Introduction
 
