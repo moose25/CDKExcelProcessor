@@ -1,0 +1,7 @@
+{
+  "app": "python cdk-app/app.py",   // Path to the entry point of your CDK app
+  "context": {
+    "@aws-cdk/core:enableStackNameDuplicates": "true", // Enable duplicate stack names
+    "aws-cdk:enableDiffNoFail": "true"                 // Enable DiffNoFail feature
+  }
+}
